@@ -1,5 +1,5 @@
 
-##solo crear el script para crear la tabla
+##solo crear el script para crear la tabla first approach
 import csv
 ##import psycopg2
 
